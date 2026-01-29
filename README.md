@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # bulk-rna-seq-limma
 
 Repository for bulk RNA-seq differential expression analysis using
