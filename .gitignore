@@ -1,0 +1,19 @@
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+
+# Results
+results/*
+!results/.gitkeep
+
+# User config
+scripts/99_user_config.R
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Temp editor files
+*~
+*.swp
